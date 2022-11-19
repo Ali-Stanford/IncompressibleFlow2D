@@ -19,7 +19,6 @@ If you use the code, plesae cite the following journal paper: <br>
 **Code Features** <br>
 This code contains the following features and algorithms: <br>
 --> P1-P1 (second-order) finite element methods <br>
---> Unsteady <br>
 --> Semi-implicit time integration <br> 
 --> Language of C++ <br>
 --> Output readable in TecPlot <br>
