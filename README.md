@@ -1,4 +1,4 @@
-# IncompressibleFlow2D
+# Simulation of 2D Incompressible Flows using A Finite Element Method
 
 
 **Citation** <br>
