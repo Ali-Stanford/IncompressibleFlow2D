@@ -1,4 +1,4 @@
-# Simulation of 2D Incompressible Flows and Thermal Fields using A Finite Element Method
+# Simulation of 2D Unsteady and Laminar Incompressible Flows and Thermal Fields using A Finite Element Method
 
 
 **Citation** <br>
