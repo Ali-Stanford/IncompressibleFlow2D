@@ -1,4 +1,4 @@
-# Simulation of 2D Incompressible Flows using A Finite Element Method
+# Simulation of 2D Incompressible Flows and Thermal Fields using A Finite Element Method
 
 
 **Citation** <br>
@@ -14,3 +14,22 @@ If you use the code, plesae cite the following journal paper: <br>
   pages={1063--1090}, <br>
   year={2018}, <br>
   publisher={Springer}} <br>
+
+
+**Code Features** <br>
+This code contains the following features and algorithms: <br>
+--> P1-P1 (second-order) finite element methods <br>
+--> Unsteady <br>
+--> Semi-implicit time integration <br> 
+--> Language of C++ <br>
+--> Output readable in TecPlot <br>
+
+**Examples** <br>
+Examples are set up for users: <br>
+1. Flow past a cylinder <br>
+2. Flow over a backwarding step <br>
+3. Cavity flow in a square <br>
+4. Cavity flow in a triangle <br>
+5. Taylor-Green vortex <br>
+6. Natural convection between two cylinders <br>
+ 
