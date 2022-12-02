@@ -2,8 +2,8 @@
 
 
 **Citation** <br>
-If you use the code, plesae cite the following journal paper: <br>
-**[A finite-element coarse-grid projection method for incompressible flow simulations](https://link.springer.com/article/10.1007/s10444-017-9573-5)**
+If you use the code, plesae cite the following journal papers: <br>
+1. **[A finite-element coarse-grid projection method for incompressible flow simulations](https://link.springer.com/article/10.1007/s10444-017-9573-5)**
 
 @article{kashefi2018finite, <br>
   title={A finite-element coarse-grid projection method for incompressible flow simulations}, <br>
@@ -15,6 +15,17 @@ If you use the code, plesae cite the following journal paper: <br>
   year={2018}, <br>
   publisher={Springer}} <br>
 
+2. **[A Coarse Grid Projection Method for Accelerating Free and Forced Convection Heat Transfer Computations](https://doi.org/10.1007/s00025-020-1157-x)**
+
+@article{kashefi2020coarse, <br>
+  title={A coarse grid projection method for accelerating free and forced convection heat transfer computations}, <br>
+  author={Kashefi, Ali}, <br>
+  journal={Results in Mathematics}, <br>
+  volume={75}, <br>
+  number={1}, <br>
+  pages={1--24}, <br>
+  year={2020}, <br>
+  publisher={Springer}} <br>
 
 **Code Features** <br>
 This code contains the following features and algorithms: <br>
