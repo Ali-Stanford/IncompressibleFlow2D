@@ -26,6 +26,18 @@ If you use the code, plesae cite the following journal papers: <br>
   pages={1--24}, <br>
   year={2020}, <br>
   publisher={Springer}} <br>
+  
+3. **[A coarse-grid projection method for accelerating incompressible MHD flow simulations](https://doi.org/10.1007/s00366-020-01265-8)**
+
+@article{kashefi2022coarse, <br>
+  title={A coarse-grid projection method for accelerating incompressible MHD flow simulations}, <br>
+  author={Kashefi, Ali}, <br>
+  journal={Engineering with Computers}, <br>
+  volume={38}, <br>
+  number={2}, <br>
+  pages={1539--1553}, <br>
+  year={2022}, <br>
+  publisher={Springer}} <br>
 
 **Code Features** <br>
 This code contains the following features and algorithms: <br>
