@@ -41,6 +41,20 @@ If you use the code, plesae cite the following journal papers: <br>
   pages={1539--1553}, <br>
   year={2022}, <br>
   publisher={Springer}} <br>
+  
+4. **[A. Coarse Grid Projection Methodology: A Partial Mesh Refinement Tool for Incompressible Flow Simulations](https://doi.org/10.1007/s41980-019-00249-9)**
+
+@article{kashefi2020PartialMesh, <br>
+  title={Coarse grid projection methodology: a partial mesh refinement tool for incompressible flow simulations}, <br>
+  author={Kashefi, Ali}, <br>
+  journal={Bulletin of the Iranian Mathematical Society}, <br>
+  volume={46}, <br>
+  number={1}, <br>
+  pages={177--181}, <br>
+  year={2020}, <br>
+  publisher={Springer}} <br>
+  
+5. **[A coarse-grid incremental pressure projection method for accelerating low Reynolds number incompressible flow simulations](https://doi.org/10.1007/s42044-019-00046-x)**
 
 **Code Features** <br>
 This code contains the following features and algorithms: <br>
