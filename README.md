@@ -56,6 +56,16 @@ If you use the code, plesae cite the following journal papers: <br>
   
 5. **[A coarse-grid incremental pressure projection method for accelerating low Reynolds number incompressible flow simulations](https://doi.org/10.1007/s42044-019-00046-x)**
 
+@article{kashefi2020coarse, <br>
+  title={A coarse-grid incremental pressure projection method for accelerating low Reynolds number incompressible flow simulations}, <br>
+  author={Kashefi, Ali}, <br>
+  journal={Iran Journal of Computer Science}, <br>
+  volume={3}, <br>
+  number={1}, <br>
+  pages={13--23}, <br>
+  year={2020}, <br>
+  publisher={Springer}} <br>
+  
 **Code Features** <br>
 This code contains the following features and algorithms: <br>
 --> P1-P1 (second-order) finite element methods <br>
