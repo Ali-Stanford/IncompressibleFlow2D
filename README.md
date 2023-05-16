@@ -1,6 +1,6 @@
 # Simulation of 2D unsteady and laminar incompressible flows and thermal fields by a finite element method
 
-**Authors:** Ali Kashefi (kashefi@stanford.edu)<br>
+**Author:** Ali Kashefi (kashefi@stanford.edu)<br>
 **Description:** <br>
 **Version:** 1.0 <br>
 
