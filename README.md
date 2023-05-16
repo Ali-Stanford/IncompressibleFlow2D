@@ -6,7 +6,7 @@
 
 **Citation** <br>
 If you use the code, plesae cite the following journal papers: <br>
-1# **[A finite-element coarse-grid projection method for incompressible flow simulations](https://link.springer.com/article/10.1007/s10444-017-9573-5)**
+<b>1#</b> **[A finite-element coarse-grid projection method for incompressible flow simulations](https://link.springer.com/article/10.1007/s10444-017-9573-5)**
 
     @article{kashefi2018finite, 
       title={A finite-element coarse-grid projection method for incompressible flow simulations}, 
@@ -18,7 +18,7 @@ If you use the code, plesae cite the following journal papers: <br>
       year={2018}, 
       publisher={Springer}}
 
-2# **[A Coarse Grid Projection Method for Accelerating Free and Forced Convection Heat Transfer Computations](https://doi.org/10.1007/s00025-020-1157-x)**
+<b>2#</b> **[A Coarse Grid Projection Method for Accelerating Free and Forced Convection Heat Transfer Computations](https://doi.org/10.1007/s00025-020-1157-x)**
 
     @article{kashefi2020coarse, <br>
       title={A coarse grid projection method for accelerating free and forced convection heat transfer computations}, <br>
@@ -30,7 +30,7 @@ If you use the code, plesae cite the following journal papers: <br>
       year={2020}, <br>
       publisher={Springer}} <br>
   
-3# **[A coarse-grid projection method for accelerating incompressible MHD flow simulations](https://doi.org/10.1007/s00366-020-01265-8)**
+<b>3#</b> **[A coarse-grid projection method for accelerating incompressible MHD flow simulations](https://doi.org/10.1007/s00366-020-01265-8)**
 
     @article{kashefi2022coarse, <br>
       title={A coarse-grid projection method for accelerating incompressible MHD flow simulations}, <br>
@@ -42,7 +42,7 @@ If you use the code, plesae cite the following journal papers: <br>
       year={2022}, <br>
       publisher={Springer}} <br>
   
-4# **[A. Coarse Grid Projection Methodology: A Partial Mesh Refinement Tool for Incompressible Flow Simulations](https://doi.org/10.1007/s41980-019-00249-9)**
+<b>4#</b> **[A. Coarse Grid Projection Methodology: A Partial Mesh Refinement Tool for Incompressible Flow Simulations](https://doi.org/10.1007/s41980-019-00249-9)**
 
     @article{kashefi2020PartialMesh, 
       title={Coarse grid projection methodology: a partial mesh refinement tool for incompressible flow simulations}, 
@@ -54,7 +54,7 @@ If you use the code, plesae cite the following journal papers: <br>
       year={2020}, 
       publisher={Springer}} 
   
-5# **[A coarse-grid incremental pressure projection method for accelerating low Reynolds number incompressible flow simulations](https://doi.org/10.1007/s42044-019-00046-x)**
+<b>5#</b> **[A coarse-grid incremental pressure projection method for accelerating low Reynolds number incompressible flow simulations](https://doi.org/10.1007/s42044-019-00046-x)**
 
     @article{kashefi2020coarse, 
       title={A coarse-grid incremental pressure projection method for accelerating low Reynolds number incompressible flow simulations}, 
