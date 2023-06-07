@@ -73,7 +73,7 @@ This code contains the following features and algorithms: <br>
 --> P1-P1 (second-order) finite element methods <br>
 --> Semi-implicit time integration <br> 
 --> Language of C++ <br>
---> Output readable in TecPlot <br>
+--> Outputs readable in TecPlot <br>
 
 **Examples** <br>
 Examples are set up for users: <br>
