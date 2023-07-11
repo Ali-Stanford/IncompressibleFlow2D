@@ -84,3 +84,5 @@ Examples are set up for users: <br>
 5. Taylor-Green vortex <br>
 6. Natural convection between two cylinders <br>
  
+**About the Author** <br>
+Please see the author's website: [Ali Kashefi](https://web.stanford.edu/~kashefi/) 
